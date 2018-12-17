@@ -1,0 +1,23 @@
+{
+  "id": 2,
+  "name": "Tsaqif Setyo",
+  "username": "tsaqifsetyo",
+  "email": "tsaqiftrooper@gmail.com",
+  "address": {
+    "street": "Bintaro",
+    "suite": "Suite 879",
+    "city": "Jakarta",
+    "zipcode": "90566-7771",
+    "geo": {
+      "lat": "-43.9509",
+      "lng": "-34.4618"
+    }
+  },
+  "phone": "010-692-6593 x09125",
+  "website": "impressive.net",
+  "company": {
+    "name": "Tsaqif Setyo",
+    "catchPhrase": "Proactive didactic contingency",
+    "bs": "synergize scalable supply-chains"
+  }
+}
